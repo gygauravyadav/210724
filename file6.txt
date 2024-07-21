@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 hello welcome to devops course i m in feature 1
+
