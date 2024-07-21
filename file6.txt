@@ -1,0 +1,3 @@
+epihcblsk2. L2 - Create Local git repository and demonstrate 
+git merge and Merge Conflicts with the steps to 
+resolve merge conflicts
